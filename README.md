@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rohan Khatri</h1>
 <h3 align="center">Computer Science @ San Jose State University.</h3>
 
-- 📫 How to reach me **rohankhatri0507@gmail.com**
 
-- 📄 My resume: [https://indigo-carie-33.tiiny.site](https://indigo-carie-33.tiiny.site)
+📄 my resume: [https://indigo-carie-33.tiiny.site](https://indigo-carie-33.tiiny.site)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">socials:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/khatri-rohan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khatri-rohan" height="30" width="40" />
@@ -15,7 +14,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">tech stack:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -31,5 +30,5 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
+# 📊 github stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankhatri7&theme=dark&hide=Jupyter%20Notebook&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
