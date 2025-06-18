@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Khatri</h1>
 <h3 align="center">Computer Science @ San Jose State University.</h3>
 
-
-📄 my resume: [https://indigo-carie-33.tiiny.site](https://indigo-carie-33.tiiny.site)
-
 <h3 align="left">socials:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/khatri-rohan" target="blank">
