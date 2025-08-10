@@ -3,6 +3,9 @@
 
 <h3 align="left">socials:</h3>
 <p align="left">
+  <a href="https://rohankhatri.vercel.app" target="blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" alt="Portfolio Website" height="30" width="40" />
+  </a>
   <a href="https://linkedin.com/in/khatri-rohan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khatri-rohan" height="30" width="40" />
   </a>
@@ -10,6 +13,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_rohankhatri" height="30" width="40" />
   </a>
 </p>
+
 
 <h3 align="left">tech stack:</h3>
 <p align="left">
