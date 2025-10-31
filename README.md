@@ -12,6 +12,12 @@
 
 # 🧠 Projects  
 
+[**IntelliTrainer – AI-Powered Exercise Tracker**](https://github.com/ai-ml-club-sjsu/project-fa25-intellitrainer)  
+Pose-detection based fitness assistant using OpenCV, MediaPipe, and PyTorch for rep counting, form correction, and real-time feedback.  
+- Lead a 3-member full-stack team developing **IntelliTrainer**, an AI-powered fitness tracker with pose detection and real-time feedback.  
+- Build and maintain the **Next.js + Streamlit frontend** and **FastAPI backend**, integrating OpenCV, MediaPipe, and PyTorch pipelines.  
+- Optimize **GPU-accelerated inference** and modular APIs to support future LLM-based coaching and progress tracking.  
+
 [**PaperLink – CalHacks 12.0 Runner-Up | AI-Powered Research Digest**](https://github.com/SShahparnia/paperlink)  
 [View on Devpost](https://devpost.com/software/kensa?ref_content=user-portfolio&ref_feature=in_progress)  
 Built in **36 hours at CalHacks 12.0**, PaperLink is an **AI-driven research platform** that transforms a single topic prompt into concise, **clustered digests of recent arXiv papers** using multimodal pipelines.  
@@ -21,19 +27,19 @@ Built in **36 hours at CalHacks 12.0**, PaperLink is an **AI-driven research pla
 
 [**AI Discord Bot**](https://github.com/rohankhatri7/ai-discord-bot)  
 Conversational model fine-tuned to emulate user text patterns.  
-- Trained **TinyLlama 1.1B** on 40 k messages for realistic style mimicry.  
-- Deployed on **AWS EC2 containers** via Flask and Docker, serving requests across three servers.  
-- Developed data preprocessing workflows to convert 1,000+ messages to JSONL, filtering sensitive information.  
+- Train **TinyLlama 1.1B** on 40 k messages for realistic style mimicry.  
+- Deploy on **AWS EC2 containers** via Flask and Docker, serving requests across three servers.  
+- Develop data preprocessing workflows to convert 1,000+ messages to JSONL, filtering sensitive information.  
 
 [**LushLocks – Hair-Health Prediction App**](https://github.com/rohankhatri7/lushlocks)  
 Full-stack React + Node application using **TensorFlow** for image-based hair condition classification.  
-- Integrated a TensorFlow classifier via Node.js/Express REST API for hair-health predictions across 4 conditions
-- Increased input coverage through image upload and live camera capture, allowing real-time analysis across devices
+- Integrate a TensorFlow classifier via Node.js/Express REST API for hair-health predictions across 4 conditions.  
+- Increase input coverage through image upload and live camera capture, allowing real-time analysis across devices.  
 
 [**StaySlim – Fitness and Nutrition Tracker**](https://github.com/rohankhatri7/stayslim)  
 Java-based web app for tracking BMI, calories, and workouts.  
-- Designed indexed MySQL schema and JDBC backend.  
-- Implemented leaderboards and streak tracking to boost user engagement.  
+- Design indexed MySQL schema and JDBC backend.  
+- Implement leaderboards and streak tracking to boost user engagement.  
 
 ---
 
