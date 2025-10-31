@@ -12,7 +12,7 @@
 
 # 🧠 Projects  
 
-[**PaperLink – CalHacks 12.0 Runner-Up | AI-Powered Research Digest**](https://github.com/rohankhatri7/paperlink)  
+[**PaperLink – CalHacks 12.0 Runner-Up | AI-Powered Research Digest**](https://github.com/SShahparnia/paperlink)  
 [View on Devpost](https://devpost.com/software/kensa?ref_content=user-portfolio&ref_feature=in_progress)  
 Built in **36 hours at CalHacks 12.0**, PaperLink is an **AI-driven research platform** that transforms a single topic prompt into concise, **clustered digests of recent arXiv papers** using multimodal pipelines.  
 - Built an end-to-end **FastAPI + Next.js** system integrating **Claude 3.5 Sonnet**, **Chroma**, and **MiniLM embeddings**.  
