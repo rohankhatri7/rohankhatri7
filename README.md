@@ -10,35 +10,7 @@
 
 ---
 
-# 🧠 Projects  
-
-[**IntelliTrainer – AI-Powered Exercise Tracker**](https://github.com/ai-ml-club-sjsu/project-fa25-intellitrainer)  
-Pose-detection based fitness assistant using OpenCV, MediaPipe, and PyTorch for rep counting, form correction, and real-time feedback.  
-- Lead a 3-member full-stack team developing **IntelliTrainer**, an AI-powered fitness tracker with pose detection and real-time feedback.  
-- Build and maintain the **Next.js + Streamlit frontend** and **FastAPI backend**, integrating OpenCV, MediaPipe, and PyTorch pipelines.  
-- Design scalable **API endpoints** and modular components to enable seamless integration of upcoming analytics and coaching features.  
-
-[**PaperLink – CalHacks 12.0 Runner-Up | AI-Powered Research Digest**](https://github.com/SShahparnia/paperlink)  
-[View on Devpost](https://devpost.com/software/kensa?ref_content=user-portfolio&ref_feature=in_progress)  
-Built in **36 hours at CalHacks 12.0**, PaperLink is an **AI-driven research platform** that transforms a single topic prompt into concise, **clustered digests of recent arXiv papers** using multimodal pipelines.  
-- Built an end-to-end **FastAPI + Next.js** system integrating **Claude 3.5 Sonnet**, **Chroma**, and **MiniLM embeddings**.  
-- Implemented **Fish Audio TTS** for synchronized read-aloud summaries.  
-- Optimized vectorization with **SQLite caching**, reducing LLM calls by 45 %.  
-
-[**AI Discord Bot**](https://github.com/rohankhatri7/ai-discord-bot)  
-Conversational model fine-tuned to emulate user text patterns.  
-- Train **TinyLlama 1.1B** on 40,000+ messages for realistic style mimicry.  
-- Deploy on **AWS EC2 containers** via Flask and Docker, serving requests across three servers.  
-- Develop data preprocessing workflows to convert 1,000+ messages to JSONL, filtering sensitive information.  
-
-[**LushLocks – Hair-Health Prediction App**](https://github.com/rohankhatri7/lushlocks)  
-Full-stack React + Node application using **TensorFlow** for image-based hair condition classification.  
-- Integrate a TensorFlow classifier via Node.js/Express REST API for hair-health predictions across 4 conditions.  
-- Increase input coverage through image upload and live camera capture, allowing real-time analysis across devices.  
-
----
-
-# 🚀 Tech Stack  
+# Tech Stack  
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
