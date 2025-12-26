@@ -39,9 +39,9 @@
 
 ---
 
-<a href="https://rohankhatri.pythonanywhere.com/link">
+<a href="https://rohankhatri.pythonanywhere.com/redirect" target="_blank">
   <img
     src="https://rohankhatri.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark"
     alt="Current Spotify Song"
-  />
+/>
 </a>
